@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+monenv1/
+*.pt
