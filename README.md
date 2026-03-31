@@ -2,7 +2,7 @@
 # Projet SDD1004 – Détection de Voitures avec YOLOv8 (Streamlit)
 
 ## 🎓 Informations Générales
-- **Auteur :** Abdoul Daouda Faye
+- **Auteur :** cheikhouna kebe
 - **Cours :** SDD1004 – Sciences des Données et Applications
 - **Université :** Université du Québec à Trois-Rivières (UQTR)
 
@@ -53,7 +53,6 @@ YOLO8_VOITURE_STREAMLIT/
    ```
 
 ## 📌 Remarques importantes
-- Le fichier `best.pt` (modèle YOLOv8) **ne doit pas être inclus dans l'archive .zip**.
 - Le modèle doit être placé localement dans le même dossier que `app.py` avant exécution.
 - Le dossier `images/` contient des exemples d'images pour faciliter les tests.
 
